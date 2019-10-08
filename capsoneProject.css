@@ -1,0 +1,48 @@
+#bod{
+    background-color: #00A896;
+    margin: 0px;
+    padding-bottom: 60px;
+}
+#middleContent{
+width: 80%;
+background-color:#05668D;
+text-align: center;
+font-family: 'Underdog', cursive;
+padding:50px;
+margin: auto;
+}
+#topContent{
+    background-color: #05668D;
+    padding: 10px;
+    width: 100%;
+}
+h1{
+    font-weight: bold;
+    color:white;
+}
+h2{
+    font-weight: bold;
+    color:white;
+}
+h3{
+    font-weight: bold;
+    color:white;
+}
+p{
+    color:white;
+    font-weight: bold;
+    padding:50px;
+}
+#formdiv label{
+    color: white;
+}
+#formdiv input{
+    margin:3px;
+}
+#formdiv input[type="submit"]{
+    background-color: yellowgreen;
+    padding: 19px;
+    margin:6px;
+    font-size:25px;
+    border-radius: 10px 10px 10px 10px;
+}
