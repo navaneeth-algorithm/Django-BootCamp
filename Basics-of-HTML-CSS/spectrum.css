@@ -1,0 +1,53 @@
+
+table {
+    border-collapse: separate;
+    border-spacing: 20px 0;
+    margin:auto;
+  }
+  #first{
+    background-color: #05668D;
+    }
+    #first:hover{
+        background-color: black;
+    }
+    
+    #second{
+        background-color:#028090;
+    }
+    #second:hover{
+        background-color: black;
+    }
+    
+    #third{
+        background-color:#00A896;
+    }
+    #third:hover{
+        background-color: black;
+    }
+    
+    #fourth{
+        background-color:#02C39A;
+    }
+    #fourth:hover{
+        background-color: black;
+    }
+    #fifth{
+        background-color:#F0F3BD;
+    }
+    #fifth:hover{
+        background-color: black;
+    }
+    #head{
+        font-family: 'Underdog', cursive;
+        text-align: center;
+    }
+    .pallet tr td{
+        
+        padding: 150px 70px 150px 70px;
+        width: 2px;
+        
+    }
+    td:hover{
+        border:2px double red;
+        
+    }

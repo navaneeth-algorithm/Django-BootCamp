@@ -1,0 +1,43 @@
+body{
+    /*background-color: bisque; */
+    background: url("https://rukminim1.flixcart.com/image/832/832/jmqmpow0-1/poster/k/c/n/medium-athah-anime-girl-long-hair-blue-eyes-butterfly-purple-original-imaf9h6rzp6ynzdk.jpeg?q=70");
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: cadetblue;
+    border-color:blue;
+    border-width: thick;
+    border-style:double;
+}
+p{
+    color:rebeccapurple;
+}
+span {
+    color:purple;
+    background-color: antiquewhite;
+}
+.secondDiv{
+    background-color: lightcyan;
+    color: green;
+}
+#singledout{
+    color: brown;
+    background-color: lightskyblue;
+    text-decoration: line-through;
+}
+p+ul{
+    border:4px dotted violet;
+    color: black;
+    background-color: wheat;
+}
+li a {
+    color:red;
+}
+li a[href="https://w3school.com"]{
+    color:yellowgreen;
+    border:2px double green;
+}
+#login input{
+    border: 1px dashed red;
+}
