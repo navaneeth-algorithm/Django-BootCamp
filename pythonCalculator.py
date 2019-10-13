@@ -138,7 +138,9 @@ class Application(Frame):
             self.fieldValue+=button["text"]
         self.inputVar.set(self.fieldValue)
 
-window = Tk()
-app = Application(window)
-app.mainloop()
+
+if __name__=="__main__":
+    window = Tk()
+    app = Application(window)
+    app.mainloop()
 
